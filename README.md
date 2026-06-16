@@ -10,11 +10,11 @@
 
 ### 🤖 Linguagens:
 
-<code>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d494d/topics/csharp/csharp.png" alt="C#" />
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d494d/topics/javascript/javascript.png" alt="JavaScript" />
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d494d/topics/typescript/typescript.png" alt="TypeScript" />
-</code>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="35" width="35" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="35" width="35" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="35" width="35" />&nbsp;
+</div>
 
 ---
 
@@ -22,6 +22,12 @@
 
 * 💻 Desenvolvendo projetos práticos para auxilio no cotidiano.
 * 🌐 Sempre buscando cada vez mais conhecimento.
+
+---
+
+### 🔭 Projeto em Destaque **Nexos Web**
+
+**Nexos Web** tem como pretensão idealizar e desenvolver páginas web corporativas e sistemas sob medida. Nosso foco é criar soluções digitais robustas, modernas e eficientes para impulsionar e auxiliar o crescimento de empresas e profissionais no mercado.
 
 
 <!--
