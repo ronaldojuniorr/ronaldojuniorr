@@ -1,22 +1,28 @@
 # Olá, eu sou o Ronaldo Junior! 👋
 
- Sou estudante de **Sistemas de Informação** focado em desenvolvimento de software e web. Estou sempre buscando aprender novas tecnologias e criar soluções práticas para problemas reais.
+- 📖 Estudante de **Sistemas de Informação**
+- 🎒 PUC MINAS - BETIM
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldojuniorr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronaldo.juniorr_)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🤖 Linguagens:
 
-Aqui estão algumas das principais tecnologias com as quais trabalho no meu dia a dia de estudos e projetos:
-
-* **Linguagens:**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<code>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d494d/topics/csharp/csharp.png" alt="C#" />
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d494d/topics/javascript/javascript.png" alt="JavaScript" />
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d494d/topics/typescript/typescript.png" alt="TypeScript" />
+</code>
 
 ---
+
+### 🚀 Sobre mim e meus focos:
+
+* 💻 Desenvolvendo projetos práticos para auxilio no cotidiano.
+* 🌐 Sempre buscando cada vez mais conhecimento.
+
 
 <!--
 **ronaldojuniorr/ronaldojuniorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
