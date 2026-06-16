@@ -27,7 +27,7 @@
 
 ### 🔭 Projeto em Destaque **Nexos Web**
 
-**Nexos Web** tem como pretensão idealizar e desenvolver páginas web corporativas e sistemas sob medida. Nosso foco é criar soluções digitais robustas, modernas e eficientes para impulsionar e auxiliar o crescimento de empresas e profissionais no mercado.
+- **Nexos Web** tem como pretensão idealizar e desenvolver páginas web corporativas e sistemas sob medida. Nosso foco é criar soluções digitais robustas, modernas e eficientes para impulsionar e auxiliar o crescimento de empresas e profissionais no mercado.
 
 
 <!--
